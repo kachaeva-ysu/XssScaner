@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Xss": {
+      "commandName": "Project",
+      "commandLineArgs": "https://cis.uniyar.ac.ru/index.php/user/login"
+    }
+  }
+}
