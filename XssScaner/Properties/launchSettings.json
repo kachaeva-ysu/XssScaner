@@ -2,7 +2,7 @@
   "profiles": {
     "Xss": {
       "commandName": "Project",
-      "commandLineArgs": "https://cis.uniyar.ac.ru/index.php/user/login"
+      "commandLineArgs": "https://localhost:7070/"
     }
   }
 }

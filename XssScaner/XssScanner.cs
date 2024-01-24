@@ -72,6 +72,7 @@ namespace Xss
                             {
                                 Console.WriteLine(phase + " parameter \"" + parameter.Key + "\" appears to be XSS vulnerable (" + regularPattern.Info + ")");
                                 IsPageXssVulnerable = true;
+                                break;
                             }
                         }
                     }
